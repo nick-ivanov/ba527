@@ -10,8 +10,13 @@ print(
 <h1>ba527 Setup</h1>
 <p>
 A paragraphy paragraph.
+Lorem ipsum!
 </p>
 <input type="">
+</p>
+
+<p class="normal_paragraph">
+Another paragraph.
 </p>
 
 </body>
